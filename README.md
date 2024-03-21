@@ -26,7 +26,7 @@ writing machine learning model
 ## How to run the project(windows 10 + windows PowerShell):
 
 In the console: go to the folder where we want to clone the project to
-```git clone https://github.com/RedPunk77/FAKE_BOT.git``.
+```git clone https://github.com/RedPunk77/FAKE_BOT.git```
 
 Install all necessary libraries:
 ```pip install -r requirements.txt```.
