@@ -29,9 +29,9 @@ In the console: go to the folder where we want to clone the project to
 ```git clone https://github.com/RedPunk77/FAKE_BOT.git```
 
 Install all necessary libraries:
-```pip install -r requirements.txt```.
+```pip install -r requirements.txt```
 
-Create a config.py file and specify the token of your bot.
+Create a config.py file and specify the token of your bot
 ```TOKEN="YOUR_TOKEN"```
 
 Run bot.py
