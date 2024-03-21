@@ -35,4 +35,4 @@ Create a config.py file and specify the token of your bot.
 ```TOKEN="YOUR_TOKEN"```
 
 Run bot.py
-````python bot.py```
+```python bot.py```
